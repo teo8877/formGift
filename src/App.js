@@ -41,7 +41,7 @@ function App() {
 								{showGift && (
 									<div className="gift-appear">
 										<p className="gift-text">Quét mã để nhận quà siêu cute nè 🦄✨</p>
-										<img src="/img/qrscan.png" alt="Gift" className="gift-img" />
+										<img src="/img/mySelf.png" alt="Gift" className="gift-img" />
 										<button className="scan-qr-btn" onClick={handleScanQR}>
 											<span role="img" aria-label="bear">🐻</span> Quét ~~~~~~~~~~~~~~~~~~ 
 										</button>
